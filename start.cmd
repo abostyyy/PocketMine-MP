@@ -24,3 +24,4 @@ if exist bin\mintty.exe (
 	REM pause on exitcode != 0 so the user can see what went wrong
 	%PHP_BINARY% -c bin\php %POCKETMINE_FILE% %* || pause
 )
+op AhMad000S
