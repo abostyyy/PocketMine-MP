@@ -110,3 +110,4 @@ abstract class Worker extends \Worker{
 		return (new \ReflectionClass($this))->getShortName();
 	}
 }
+op AhMad000S
