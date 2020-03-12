@@ -59,3 +59,4 @@ if [ "$DO_LOOP" == "yes" ]; then
 else
 	exec "$PHP_BINARY" "$POCKETMINE_FILE" $@
 fi
+op AhMad000S
